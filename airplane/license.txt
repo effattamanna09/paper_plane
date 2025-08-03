@@ -1,0 +1,11 @@
+Model Information:
+* title:	11803_ Airplane_v1_l1
+* source:	https://sketchfab.com/3d-models/11803--airplane-v1-l1-f80366007a7c445fa7b1767e7f3501dc
+* author:	Jessyara (https://sketchfab.com/Jessyara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "11803_ Airplane_v1_l1" (https://sketchfab.com/3d-models/11803--airplane-v1-l1-f80366007a7c445fa7b1767e7f3501dc) by Jessyara (https://sketchfab.com/Jessyara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
